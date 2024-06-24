@@ -21,7 +21,7 @@ func main() {
 			for i := 0; i < 4; i++ {
 				drone.Clockwise(90) // Turn 90 degrees clockwise
 				time.Sleep(2 * time.Second)
-				drone.Forward(50) // Move forward
+				drone.Forward(20) // Move forward
 				time.Sleep(2 * time.Second)
 			}
 
