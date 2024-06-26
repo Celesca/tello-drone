@@ -32,6 +32,11 @@ The bonus for this track is I want to implement the Grover's algorithm to solve 
 
 ## 3. SNN algorithm (Neuromorphic Computing)
 
+The objective is to study the basic of Neuromorphic Computing and the basic of Spiking Neural Network (SNN).
+
+First, we will talk about the concept and components of Spiking Neural Network (SNN).
+Second, we will talk about how to implement the SNN in Python code.
+
 
 
 
